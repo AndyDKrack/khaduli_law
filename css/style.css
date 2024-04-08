@@ -8056,7 +8056,7 @@ h1, h2, h3, h4, h5,
     font-weight: 400;
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #afa939; }
+      color: #80ccef; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
         padding-left: 0;
@@ -8089,13 +8089,13 @@ h1, h2, h3, h4, h5,
           display: none; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
     color: #fff;
-    border: 1px solid #afa939;
+    border: 1px solid #2949B6;
     padding-top: .5rem;
     padding-bottom: .5rem;
     padding-left: 18px;
     padding-right: 18px;
     margin-top: 4px;
-    background: #afa939;
+    background: #2949B6;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -8104,13 +8104,13 @@ h1, h2, h3, h4, h5,
       display: inline-block;
       color: #fff; }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a:hover {
-      background: #afa939;
-      border: 1px solid #afa939; }
+      background: #2949b6;
+      border: 1px solid #80CCEF; }
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored a {
     border: 1px solid #2c2f3a;
     background: #2c2f3a !important; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #afa939; }
+    color: #80CCEF; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
@@ -8121,7 +8121,7 @@ h1, h2, h3, h4, h5,
     letter-spacing: .1em; }
     .ftco-navbar-light .navbar-toggler:hover, .ftco-navbar-light .navbar-toggler:focus {
       text-decoration: none;
-      color: #afa939;
+      color: #2949b6;
       outline: none !important; }
   .ftco-navbar-light.scrolled {
     position: fixed;
@@ -8138,10 +8138,10 @@ h1, h2, h3, h4, h5,
         padding-right: 0 !important;
         padding-bottom: 0 !important; } }
     .ftco-navbar-light.scrolled .nav-item.active > a {
-      color: #afa939 !important; }
+      color: #2949B6 !important; }
     .ftco-navbar-light.scrolled .nav-item.cta > a {
       color: #fff !important;
-      background: #afa939;
+      background: #2949B6;
       border: none !important;
       padding-top: 0.5rem !important;
       padding-bottom: .5rem !important;
@@ -8156,7 +8156,7 @@ h1, h2, h3, h4, h5,
         display: inline-block;
         color: #fff !important; }
     .ftco-navbar-light.scrolled .nav-item.cta.cta-colored span {
-      border-color: #afa939; }
+      border-color: #2949B6; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light.scrolled .navbar-nav {
         background: none;
@@ -8177,7 +8177,7 @@ h1, h2, h3, h4, h5,
       padding-bottom: 0.9rem !important;
       color: #000000 !important; }
       .ftco-navbar-light.scrolled .nav-link.active {
-        color: #afa939 !important; }
+        color: #80ccef !important; }
     .ftco-navbar-light.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
@@ -8263,12 +8263,12 @@ h1, h2, h3, h4, h5,
     .slider-text h1 {
       font-size: 40px; } }
   .slider-text h1 span {
-    color: #afa939; }
+    color: #80CCEF; }
 
 .slider-text .subheading {
   font-size: 15px;
   color: rgba(255, 255, 255, 0.7);
-  color: #afa939;
+  color: #80CCEF;
   text-transform: uppercase;
   font-family: "Poppins", Arial, sans-serif;
   font-weight: 800; }
@@ -8405,8 +8405,8 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #afa939 !important;
-    border: 1px solid #afa939 !important;
+    background: #2949B6 !important;
+    border: 1px solid #2949B6 !important;
     color: #fff !important; }
     .btn.btn-primary:hover {
       border: 1px solid #afa939;
@@ -8441,7 +8441,7 @@ h1, h2, h3, h4, h5,
 .icon-video {
   width: 80px;
   height: 80px;
-  background: #afa939;
+  background: #2949B6;
   -webkit-animation: pulse 2s infinite;
   animation: pulse 2s infinite;
   -webkit-border-radius: 50%;
@@ -8459,7 +8459,7 @@ h1, h2, h3, h4, h5,
   font-size: 20px;
   display: inline-block;
   padding: 20px;
-  background: #afa939; }
+  background: #2949B6; }
   @media (min-width: 768px) {
     .years h4 {
       margin-left: -64px;
@@ -8481,8 +8481,8 @@ h1, h2, h3, h4, h5,
     color: #afa939; }
   .tabulation-2 .nav-pills .nav-item .nav-link.active {
     color: #fff;
-    background: #afa939;
-    border: 1px solid #afa939; }
+    background: #2949B6;
+    border: 1px solid #2949B6; }
     .tabulation-2 .nav-pills .nav-item .nav-link.active span {
       color: #fff; }
 
@@ -8503,7 +8503,7 @@ h1, h2, h3, h4, h5,
     z-index: -1;
     content: '';
     height: 140px;
-    background: #afa939; }
+    background: #2949B6; }
     @media (max-width: 767.98px) {
       .services-wrap:after {
         height: 100%; } }
@@ -8528,7 +8528,7 @@ h1, h2, h3, h4, h5,
     background: rgba(0, 0, 0, 0.05);
     margin-bottom: 10px; }
     .services .icon span {
-      color: #afa939;
+      color: #2949B6;
       font-size: 30px; }
   .services .text h3 {
     font-size: 18px;
@@ -8541,7 +8541,7 @@ h1, h2, h3, h4, h5,
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: #afa939;
+    background: #2949B6;
     margin: 0 auto;
     opacity: 0;
     -moz-transition: all 0.3s ease;
@@ -8583,7 +8583,7 @@ h1, h2, h3, h4, h5,
     border-radius: 50%; }
     .practice-area .icon span {
       font-size: 50px;
-      color: #afa939;
+      color: #2949b6;
       -moz-transition: all 0.3s ease;
       -o-transition: all 0.3s ease;
       -webkit-transition: all 0.3s ease;
@@ -8601,7 +8601,7 @@ h1, h2, h3, h4, h5,
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: #afa939;
+    background: #2949b6;
     margin: 0 auto;
     opacity: 0;
     -moz-transition: all 0.3s ease;
@@ -8612,7 +8612,7 @@ h1, h2, h3, h4, h5,
     .practice-area .btn-custom span {
       color: #fff; }
   .practice-area:hover .icon, .practice-area:focus .icon {
-    background: #afa939; }
+    background: #2949b6; }
     .practice-area:hover .icon span, .practice-area:focus .icon span {
       color: #fff; }
   .practice-area:hover .btn-custom, .practice-area:focus .btn-custom {
@@ -8634,7 +8634,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #afa939;
+    background: #D13F3B;
     opacity: 0;
     z-index: -1;
     -moz-transition: all 0.3s ease;
@@ -8800,7 +8800,7 @@ textarea.form-control {
     .ftco-footer .logo a {
       color: #fff; }
       .ftco-footer .logo a span {
-        color: #afa939;
+        color: #80ccef;
         font-size: 16px !important;
         display: block; }
   .ftco-footer .ftco-footer-widget h2 {
@@ -8835,7 +8835,7 @@ textarea.form-control {
     color: #000000;
     position: relative; }
   .ftco-footer .opening-hours h4 {
-    color: #afa939;
+    color: #80ccef;
     font-size: 16px; }
   .ftco-footer .opening-hours p span {
     color: rgba(255, 255, 255, 0.9); }
@@ -8941,7 +8941,7 @@ textarea.form-control {
   display: block;
   margin-bottom: 5px;
   font-weight: 700;
-  color: #afa939; }
+  color: #2949B6; }
 
 .heading-section h2 {
   font-size: 30px;
@@ -9030,7 +9030,7 @@ textarea.form-control {
       border-radius: 50%;
       background: rgba(0, 0, 0, 0.1); }
       .testimony-section .owl-dots .owl-dot.active {
-        background: #afa939; }
+        background: #2949b6; }
 
 .testimony-wrap {
   display: block;
@@ -9056,7 +9056,7 @@ textarea.form-control {
     color: #000000; }
   .testimony-wrap .position {
     font-size: 16px;
-    color: #afa939; }
+    color: #2949b6; }
 
 @media (max-width: 767.98px) {
   .about-image {
@@ -9251,7 +9251,7 @@ textarea.form-control {
       border-radius: 50%;
       border: 1px solid #e6e6e6; }
     .block-27 ul li.active a, .block-27 ul li.active span {
-      background: #afa939;
+      background: #2949b6;
       color: #fff;
       border: 1px solid transparent; }
 
@@ -9526,7 +9526,7 @@ textarea.form-control {
   .block-2 .front {
     -webkit-transform: rotateY(0deg);
     -ms-transform: rotateY(0deg);
-    background: lightgreen;
+    background: lightskyblue;
     z-index: 2;
     background-size: cover;
     background-position: center center;
@@ -9565,7 +9565,7 @@ textarea.form-control {
       .block-2 .front .box p {
         font-size: 12px; }
   .block-2 .back {
-    background: #afa939;
+    background: #2949B6;
     -webkit-box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.4);
     box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.4);
     -webkit-transform: rotateY(-180deg);
